@@ -1,0 +1,28 @@
+{
+  "name": "polymer-currency-filter",
+  "version": "0.1.0",
+  "authors": [
+    "Adi <skadimoolam@gmail.com>"
+  ],
+  "main": "polymer-currency-filters.html",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/skadimoolam/polymer-currency-filter/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.5.5"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  },
+  "description": "Currency filter for Polymer Library",
+  "keywords": [
+    "filters",
+    "polymer",
+    "currency",
+    "numbers",
+    "web-components"
+  ]
+}
