@@ -22,7 +22,7 @@
     "chai": "~1.10.0"
   },
   "keywords": [
-    "filters",
+    "filter",
     "polymer",
     "currency",
     "numbers",
