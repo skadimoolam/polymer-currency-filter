@@ -4,11 +4,15 @@
   "authors": [
     "Adi <skadimoolam@gmail.com>"
   ],
+  "description": "Currency filter for Polymer Library",
   "main": "polymer-currency-filters.html",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "homepage": "https://github.com/skadimoolam/polymer-currency-filter/",
   "ignore": [
-    "**/.*"
+    "**/.*",
+    "README.md",
+    "test",
+    "LICENSE"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#>=0.5.5"
@@ -17,7 +21,6 @@
     "mocha": "~2.1.0",
     "chai": "~1.10.0"
   },
-  "description": "Currency filter for Polymer Library",
   "keywords": [
     "filters",
     "polymer",
